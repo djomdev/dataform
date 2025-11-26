@@ -1,4 +1,4 @@
 defaultProject: data-engineering-djomdev
-defaultDataset: dataform
+defaultDataset: raw
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.35

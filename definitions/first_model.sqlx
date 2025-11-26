@@ -1,2 +1,5 @@
+config {
+  type: "table",
+}
 
-Hello world!!
+SELECT "dataform" as name, "GCP" as platform
