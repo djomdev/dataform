@@ -1,7 +1,8 @@
 config {
     type: "view",
     schema: "dataform",
-    materialized: true
+    materialized: true,
+    tags: ["weekly"]
 }
 SELECT
     DISTINCT drink_id,
