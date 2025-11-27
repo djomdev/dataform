@@ -1,0 +1,8 @@
+config {
+  type: "table",
+  schema: "dataform"
+}
+
+SELECT *
+
+FROM  ${ref("drinks")}

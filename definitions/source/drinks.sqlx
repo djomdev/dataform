@@ -1,0 +1,6 @@
+config {
+  type: "declaration",
+  database: "data-engineering-djomdev",
+  schema: "raw",
+  name: "drinks"
+}
